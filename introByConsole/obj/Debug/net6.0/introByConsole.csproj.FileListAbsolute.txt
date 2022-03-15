@@ -1,0 +1,15 @@
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\bin\Debug\net6.0\introByConsole.exe
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\bin\Debug\net6.0\introByConsole.deps.json
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\bin\Debug\net6.0\introByConsole.runtimeconfig.json
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\bin\Debug\net6.0\introByConsole.dll
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\bin\Debug\net6.0\ref\introByConsole.dll
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\bin\Debug\net6.0\introByConsole.pdb
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\obj\Debug\net6.0\introByConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\obj\Debug\net6.0\introByConsole.AssemblyInfoInputs.cache
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\obj\Debug\net6.0\introByConsole.AssemblyInfo.cs
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\obj\Debug\net6.0\introByConsole.csproj.CoreCompileInputs.cache
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\obj\Debug\net6.0\introByConsole.dll
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\obj\Debug\net6.0\ref\introByConsole.dll
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\obj\Debug\net6.0\introByConsole.pdb
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\obj\Debug\net6.0\introByConsole.genruntimeconfig.cache
+C:\Users\lvilora\source\repos\introByConsole\introByConsole\obj\Debug\net6.0\introByConsole.csproj.AssemblyReference.cache
